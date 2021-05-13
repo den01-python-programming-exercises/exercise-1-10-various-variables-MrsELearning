@@ -10,8 +10,8 @@ def main():
     print("Zero")
     print()
     print("And finally, a summary:")
-    print(3)
-    print(5.5)
+    print(chicken_quantity)
+    print(bacon_quantity)
     print("Zero")
 
 if __name__ == '__main__':
